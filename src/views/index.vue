@@ -89,7 +89,7 @@ export default {
     }
   },
   created() {
-    // this.handleWeather();
+    this.handleWeather();
   }
 }
 </script>
